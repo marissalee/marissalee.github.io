@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! My name is Marissa Lee and I am a research scientist located in Raleigh, NC, USA.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site hosts my electronic resume as well as sporadic updates on what I am working on. Often, this involves content on statistical analysis, microbiome bioinformatics, and data visualization.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+When not at my computer, I enjoy spending time with my family, outside in the garden, and helping a big orange cat named Ted live his best life.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to connect with me on a social media platform ([LinkedIn](https://www.linkedin.com/in/marissa-ruth-lee/), [Twitter](https://twitter.com/marissaruthlee)) and check out my coding endeavors on [GitHub: @marissalee](https://github.com/marissalee)
