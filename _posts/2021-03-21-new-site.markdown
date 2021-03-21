@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Launch of my new GitHub/Jekyll site"
+date:   2021-03-21
+categories: firsts
+---
+Hi there! I'm finally leaving the world of Wordpress behind and moving my personal site to GitHub using Jekyll.
+
+After only a bit of tinkering it is up! The [Jekyll docs](https://jekyllrb.com/docs/home) have been super easy to use. Plus, I'm pretty happy with the simplicity of the default layout (minima) and the ability to go ad-free.
+
+Perhaps I'll actually add content more frequently??
+
+Here's a throw-back picture of young Ted from about five years ago -- keeping me company while coding. He's a grown-up chonk cat now and we've both learned a lot more about computer work.
+
+![coding Ted](/assets/teddy/coding-ted copy.jpeg)
